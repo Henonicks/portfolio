@@ -70,3 +70,7 @@ div.warning {
     line-height: 1.8;
     font-size: 23px;
 }
+
+.emoji {
+    margin-left: 0px;
+}
